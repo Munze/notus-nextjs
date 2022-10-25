@@ -16,7 +16,7 @@ export default function Navbar(props) {
                 className="text-white text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase"
                 href="#pablo"
               >
-                Advanced Composit Structures
+                ACS Partner Portal
               </a>
             </Link>
             <button
